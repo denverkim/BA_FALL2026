@@ -1,4 +1,4 @@
-# Business Analysis Using Artificial Intelligence and Deep Learning
+# AI와 딥러닝을 활용한 경영분석
 Fall 2026
 
 | Week | Dates | Topics | Chapters | Assignments |
