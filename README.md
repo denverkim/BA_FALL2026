@@ -11,10 +11,10 @@ Fall 2026
 | 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | Lab 4 |
 | 7 | 10/16 | 모델 평가 및 하이퍼 파라미터 튜닝 | Chapter 5 | Lab 5 |
 | 8 | 10/23 | **Midterm 중간고사** | | |
-| 9 | 10/30 | 비지도학습: 군집화, 차원축소 (PCA) | Chapter 6 | Lab 7<br>Project Stage 0 |
-| 10 | 11/6 | 비지도학습: 연관규칙 분석 | Chapter 6 | Lab 6 |
-| 11 | 11/13 | 신경망 개요와 딥러닝 모델 | Chapter 7 | Lab 7<br>Project Stage 1 |
-| 12 | 11/20 | 전이학습과 파인 튜닝 | Chapter 8 | Lab 8 |
+| 9 | 10/30 | 비지도학습: 군집화, 차원축소 (PCA) | Chapter 6 | Lab 6<br>Project Stage 0 |
+| 10 | 11/6 | 비지도학습: 연관규칙 분석 | Chapter 6 | Lab 7 |
+| 11 | 11/13 | 신경망 개요와 딥러닝 모델 | Chapter 7 | Lab 8<br>Project Stage 1 |
+| 12 | 11/20 | 전이학습과 파인 튜닝 | Chapter 8 | Lab 9 |
 | 13 | 11/27 | 생성형 AI와 대규모 언어모델 (LLM) | Chapter 9 | |
 | 14 | 12/4 | **Final Exam 기말고사** | | |
 | 15 | 12/11 | **Project Presentation 프로젝트 발표** | | Project Stage 2 & 3 |
