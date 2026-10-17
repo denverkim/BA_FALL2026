@@ -4,12 +4,12 @@ Fall 2026
 | Week | Dates | Topics | Chapters | Assignments |
 |---:|---|---|---|---|
 | 1 | 9/4 | [과목 소개 및 딥러닝과 경영분석 개요](https://github.com/denverkim/BA_FALL2026/blob/main/WEEK1%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20%EA%B2%BD%EC%98%81%EB%B6%84%EC%84%9D%20%EA%B0%9C%EC%9A%94.pdf) | Chapter 1 | Post your introduction |
-| 2 | 9/11 | [경영 데이터의 이해](https://github.com/denverkim/BA_FALL2026/blob/main/WEEK2%20%EA%B2%BD%EC%98%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf) | Chapter 2 | [Lab 1](https://github.com/denverkim/BA_FALL2026/blob/main/AILAB1.ipynb) |
-| 3 | 9/18 | 데이터 전처리 | Chapter 3 | Lab 2 |
-| 4 | 9/25 | 탐색적 데이터 분석 (EDA) | Chapter 2 |  |
-| 5 | 10/2 | 지도학습 I: 회귀 분석 | Chapter 4 | Lab 3 |
-| 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | Lab 4 |
-| 7 | 10/16 | 모델 평가 및 하이퍼 파라미터 튜닝 | Chapter 5 | Lab 5 |
+| 2 | 9/11 | [경영 데이터의 이해](https://github.com/denverkim/BA_FALL2026/blob/main/WEEK2%20%EA%B2%BD%EC%98%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf) | Chapter 2 | [Lab 1](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB1.ipynb) |
+| 3 | 9/18 | 데이터 전처리 | Chapter 3 | [Lab 2](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB2.ipynb) |
+| 4 | 9/25 | 탐색적 데이터 분석 (EDA) | Chapter 2 | [Lab 2](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB2.ipynb) |
+| 5 | 10/2 | 지도학습 I: 회귀 분석 | Chapter 4 | [Lab 3](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB3.ipynb) |
+| 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | [Lab 4](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB4.ipynb) |
+| 7 | 10/16 | 모델 평가 및 하이퍼 파라미터 튜닝 | Chapter 5 | [Lab 5](https://github.com/denverkim/BA_FALL2026/blob/main/BA_LAB5.ipynb) |
 | 8 | 10/23 | **Midterm 중간고사** | | |
 | 9 | 10/30 | 비지도학습: 군집화, 차원축소 (PCA) | Chapter 6 | Lab 6<br>Project Stage 0 |
 | 10 | 11/6 | 비지도학습: 연관규칙 분석 | Chapter 6 | Lab 7 |
